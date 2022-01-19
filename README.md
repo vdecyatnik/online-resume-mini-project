@@ -8,7 +8,7 @@
   * This will be accomplished over the course of several days.
   * Use the skills learned in the HTML and CSS lessons to complete this project.
   * "Ask three before me"
-    * We are here to help, but please check web resources or consult with peers prior to asking Instructor/TAs. This   helps build your "search muscles" which are very important to your future roles as Developers.
+    * We are here to help, but please check web resources or consult with peers prior to asking Instructor/TAs. This helps build your "search muscles" which are very important to your future roles as Developers.
   * The objective is to achieve a portfolio with comparable quality to the image below.
 
 ![example](./img/portfolio-example.png)
@@ -29,6 +29,7 @@
     * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
     * Expand the project from the _project explorer (may just be called `explorer`)_
     * Modify the `index.html` and `style.css` by adding code and data to fit your persona.
+    * Feel free to add images you may want to include in the `img` folder and link with direct file path.
 
 ### Part 3 - _Pushing_ new changes to repository
 
